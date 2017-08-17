@@ -4,7 +4,7 @@
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "杨皓翔"
-jobtitle: "求职意向" #可空不显示
+jobtitle: "机器学习/深度学习开发、Python开发" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
@@ -15,8 +15,8 @@ contact: #联系方式连接等3~5行
 - text: "18633508769"
   href: 'tel:18633508769'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
+- text: "www.soarx.cc"
+  href: 'http://www.soarx.cc'
   icon: 'icons/web.svg'
 - text: "yhx5768"
   href: 'https://github.com/yhx5768'
@@ -44,14 +44,13 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
+    - Python
+    - Android
   - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+    summary: git, ...
 
 - type: experience
-  name: 经验
+  name: 项目
   content:
   - title: 职位
     sub: 某某公司
