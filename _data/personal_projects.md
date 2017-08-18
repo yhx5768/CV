@@ -1,0 +1,2 @@
+- [ShortcutsExample: 一个Android shortcuts快速启动示例软件](https://github.com/yhx5768/ShortcutsExample)
+- [Ubuninit: Ubuntu新系统自动初始化配置环境脚本](https://github.com/yhx5768/Ubuninit)
