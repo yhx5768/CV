@@ -22,7 +22,7 @@ print:
     padding: '3px 0' #内部偏移
     width: '80%' #内容宽度 basic无效
   # content每一条边距设置
-  block-margin: 4px 0
+  block-margin: 2px 0
   #打印版页脚设置
   footer:
     top: 5px #上边距
