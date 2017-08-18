@@ -94,7 +94,7 @@ main: #简历主要内容，
   name: 荣誉
   content:
   - title: 个人奖励:
-    summary:
+    summary: ''
     detail:
         md: _data/honor.md
 
