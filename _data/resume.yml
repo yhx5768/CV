@@ -90,7 +90,7 @@ main: #简历主要内容，
     duration: 2017年1月-2017年6月
     detail: 学生第二作者，2017年知识科学，工程与管理国际会议(KSEM 2017)
 
-- type: honor
+- type: others
   name: 荣誉
   content:
   - title: 个人奖励:
