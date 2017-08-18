@@ -61,7 +61,7 @@ main: #简历主要内容，
 - type: experience
   name: 项目经历
   content:
-  - title: 井下巡检系统
+  - title: 井下巡检系统开发
     sub: 校企合作
     duration: "2016年9月 - 2017年8月"
     tags:
@@ -92,7 +92,7 @@ main: #简历主要内容，
 
 
 #others 其他简略内容(列表)
-others: #其他列表显示
+# others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
