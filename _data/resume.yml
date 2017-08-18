@@ -32,14 +32,16 @@ main: #简历主要内容，
   name: 教育背景 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 南开大学
-    duration: ""
+    duration:
     sub: 研究生
-    duration: "2016年9月 - 2018年7月"
+    tags:
+    - "2016年9月 - 2018年7月"
     detail: 计算机与控制工程学院，控制工程
   - title: 大连理工大学城市学院
     duration: "专业前10"
     sub: 本科
-    duration: "2012年9月 - 2016年7月"
+    tags:
+    - "2012年9月 - 2016年7月"
     detail: 电子与自动化学院，自动化
 
 - type: skills
