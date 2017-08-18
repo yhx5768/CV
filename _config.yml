@@ -15,10 +15,10 @@ print:
   #页面边距设置，3~5mm为佳[不建议修改]
   page-margin: '4mm 5mm 1mm' #上，右(无同上)，下(无同上)，左（无同右）
   #也顶部(姓名栏目)边距偏移
-  header-padding: '4mm 0 1mm'
+  header-padding: '8mm 0 3mm'
   #每块设置(对应main里面每一条)
   section:
-    margin: '1px auto 0' #边距
+    margin: '3px auto 0' #边距
     padding: '3px 0' #内部偏移
     width: '80%' #内容宽度 basic无效
   # content每一条边距设置
@@ -26,7 +26,7 @@ print:
   #打印版页脚设置
   footer:
     top: 5px #上边距
-    height: 50px #高度
+    height: 55px #高度
 
 exclude:
   - LICENSE
