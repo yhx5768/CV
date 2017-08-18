@@ -5,7 +5,7 @@ title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "杨皓翔"
 jobtitle: "研究生" #可空不显示
-photo: "assets/img/photo.jpg" #照片可空，不显示
+photo: "assets/img/1.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -33,12 +33,12 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 南开大学
     duration: "2016年9月 - 2018年7月"
-    sub: 硕士
-    detail: 控制工程
+    sub: 研究生
+    detail: 计算机与控制工程学院，控制工程
   - title: 大连理工大学城市学院
     duration: "2012年9月 - 2016年7月"
-    sub: 学士
-    detail: 自动化
+    sub: 本科
+    detail: 电子与自动化学院，自动化
 
 - type: skills
   name: "技能"
