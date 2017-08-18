@@ -68,7 +68,7 @@ main: #简历主要内容，
     - Android
     summary: 根据企业需求，完成手机端部署、巡检APP的开发
     detail: TODO
-        md: _data/NFC.md
+        # md: _data/NFC.md
     open: open
     #可以设置open默认展开
 
@@ -78,7 +78,7 @@ main: #简历主要内容，
   - title: 大连理工大学城市学院团委大学生志愿者协会
     duration: 2012年10月 - 2016年6月
     detail: 组织承办了各种市级、校级志愿者活动
-        md: _data/volunteer.md
+        # md: _data/volunteer.md
     sub: 志愿者工作部部长
    #可继续添加更多内容
 
