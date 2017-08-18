@@ -26,7 +26,7 @@ print:
   #打印版页脚设置
   footer:
     top: 5px #上边距
-    height: 55px #高度
+    height: 60px #高度
 
 exclude:
   - LICENSE
