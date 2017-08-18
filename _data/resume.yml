@@ -4,13 +4,13 @@
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "杨皓翔"
-jobtitle: "机器学习/深度学习开发、Python开发" #可空不显示
+jobtitle: "研究生" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "yhx5768@hotmail.com" #文本内容
-  href: 'mailto:yhx5768@hotmail.com' #链接，无链接则空  
+  href: 'mailto:yhx5768@hotmail.com' #链接，无链接则空
   icon: 'icons/email.svg' #图标 svg文件
 - text: "18633508769"
   href: 'tel:18633508769'
@@ -18,7 +18,8 @@ contact: #联系方式连接等3~5行
 - text: "www.soarx.cc"
   href: 'http://www.soarx.cc'
   icon: 'icons/web.svg'
-- text: "yhx5768"
+  attr: 'target="_blank"' #新标签页打开
+- text: "github.com/yhx5768"
   href: 'https://github.com/yhx5768'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
@@ -28,29 +29,33 @@ contact: #联系方式连接等3~5行
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
 - type: education #类别为ID
-  name: 教育 #显示名称，空则使用type
+  name: 教育背景 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 南开大学
-    duration: "2016年9月 - 2018年"
+    duration: "2016年9月 - 2018年7月"
     sub: 硕士
     detail: 控制工程
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+  - title: 大连理工大学城市学院
+    duration: "2012年9月 - 2016年7月"
+    sub: 学士
+    detail: 自动化
 
 - type: skills
-  # name: "技能"
+  name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - Python
     - Android
-  - title: Skill Group
-    summary: git, ...
+    - Matlab
+    - C
+  - title: 技术栈
+    items:
+    - Linux
+    - Git
 
 - type: experience
-  name: 项目
+  name: 项目经历
   content:
   - title: 职位
     sub: 某某公司
@@ -62,9 +67,9 @@ main: #简历主要内容，
     # open: open
     #可以设置open默认展开
   - title: Job Title
-    sub: Your 2nd, Inc.  
+    sub: Your 2nd, Inc.
     duration: Apr 2013 - Mar 2016
-    tags: 
+    tags:
     - tagname
     summary: Summary your job or work. (Collapse)
     detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -100,13 +105,13 @@ others: #其他列表显示
     list:
     - 第一项
     - 第二项
-#- type: 
+#- type:
 #  name: '其他'
 #  content: #选择需要的格式
 #  - 单行文字
 #  - 如果有可以继续添加
 
-#footer 脚注，打印版和web版不同不显示    
+#footer 脚注，打印版和web版不同不显示
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
