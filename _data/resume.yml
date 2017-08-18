@@ -68,40 +68,44 @@ main: #简历主要内容，
     - Android
     summary: 根据企业需求，完成手机端部署、巡检APP的开发
     detail: TODO
+        md: _data/NFC.md
     open: open
     #可以设置open默认展开
 
 - type: projects
   name: 社会经历
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+  - title: 大连理工大学城市学院团委大学生志愿者协会
+    duration: 2012年10月 - 2016年6月
+    detail: 组织承办了各种市级、校级志愿者活动
+        md: _data/volunteer.md
+    sub: 志愿者工作部部长
    #可继续添加更多内容
+
+- type: papers
+  name: 论文
+  content:
+  - title: Automatically Difficulty Grading Method based on Knowledge Tree
+    duration: 2017年1月-2017年6月
+    detail: 学生第二作者，2017知识科学，工程与管理国际会议(KSEM 2017)
+
 
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
+  - title: "业余项目:"
+    list:
+    -text: "ShortcutsExample: 一个Android shortcuts快速启动示例软件"
+     href: 'https://github.com/yhx5768/ShortcutsExample'
   - title: "兴趣:"
     items: #单行列表
     - 睡觉
     - 吃饭
     - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+    - 撸猫
+
 #- type:
 #  name: '其他'
 #  content: #选择需要的格式
