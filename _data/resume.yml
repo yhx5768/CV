@@ -80,6 +80,7 @@ main: #简历主要内容，
     summary: 组织承办了各种市级、校级志愿者活动
     detail:
         md: _data/volunteer.md
+    open: open
     sub: 志愿者工作部部长
    #可继续添加更多内容
 
@@ -96,6 +97,7 @@ main: #简历主要内容，
   - title: "个人奖励:"
     detail:
         md: _data/honor.md
+    open: open
 
 
 #others 其他简略内容(列表)
