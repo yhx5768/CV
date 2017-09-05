@@ -77,7 +77,7 @@ main: #简历主要内容，
   name: 论文
   content:
   - title: Automatically Difficulty Grading Method based on Knowledge Tree
-    duration: 2017年1月-2017年6月
+    duration: 2016年11月-2017年6月
     detail: 学生第二作者，2017年知识科学，工程与管理国际会议(KSEM 2017)
 
 - type: projects
