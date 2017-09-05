@@ -109,12 +109,12 @@ main: #简历主要内容，
   - title: "业余项目:"
     detail:
         md: _data/personal_projects.md
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-    - 撸猫
+  # - title: "兴趣:"
+  #   items: #单行列表
+  #   - 睡觉
+  #   - 吃饭
+  #   - coding
+  #   - 撸猫
 
 #- type:
 #  name: '其他'
