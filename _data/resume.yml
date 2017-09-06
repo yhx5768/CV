@@ -15,8 +15,8 @@ contact: #联系方式连接等3~5行
 - text: "18633508769"
   href: 'tel:18633508769'
   icon: 'icons/phone.svg'
-- text: "www.soarx.cc"
-  href: 'http://www.soarx.cc'
+- text: "cv.soarx.cc"
+  href: 'http://cv.soarx.cc'
   icon: 'icons/web.svg'
   attr: 'target="_blank"' #新标签页打开
 - text: "github.com/yhx5768"
