@@ -124,9 +124,9 @@ main: #简历主要内容，
 
 #footer 脚注，打印版和web版不同不显示
 footer: #脚注多组
-  print: #打印版markdown或者html
+  # print: #打印版markdown或者html
   screen:
-  - text: "简历脚注"
+  # - text: "简历脚注"
   #   href: '/'
   - text: "Made with &hearts; by NewFuture"
     href: "https://github.com/NewFuture/CV/"
