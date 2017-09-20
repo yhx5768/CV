@@ -5,7 +5,7 @@ title: "杨皓翔的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "杨皓翔"
 jobtitle: "研究生" #可空不显示
-photo: "assets/img/1.jpg" #照片可空，不显示
+# photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -124,7 +124,7 @@ main: #简历主要内容，
 
 #footer 脚注，打印版和web版不同不显示
 footer: #脚注多组
-  # print: #打印版markdown或者html
+  print: #打印版markdown或者html
   screen:
   # - text: "简历脚注"
   #   href: '/'
