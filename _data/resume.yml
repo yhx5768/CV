@@ -50,14 +50,12 @@ main: #简历主要内容，
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - Python
-    - Android
-    - Matlab
-    - C
+    - Java
   - title: 技术栈
     items:
-    - 机器学习
-    - Git
     - Linux
+    - Selenium
+    - Git
 
 - type: papers
   name: 论文
@@ -77,6 +75,15 @@ main: #简历主要内容，
     summary: 根据企业需求，完成手机端部署、巡检APP的开发
     detail:
         md: _data/NFC.md
+    open: open
+  - title: 油套管信息采集系统
+    sub: 校企合作
+    duration: "2017年7月 - 2018年6月"
+    tags:
+    - Windows
+    summary: 与现有中海油信息系统对接, 负责油套管自动计数, 信息上传.
+    detail:
+        md: _data/CNOOC.md
     open: open
     #可以设置open默认展开
 
