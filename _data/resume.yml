@@ -54,6 +54,7 @@ main: #简历主要内容，
   - title: 技术栈
     items:
     - Linux
+    - 软件测试
     - Selenium
     - Git
 
