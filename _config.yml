@@ -7,7 +7,7 @@ print:
   # 打印样式模板,
   # 空不设置打印样式，模板变量无效
   # basic:网页基本一致，
-  # flex: 侧栏密集排版，
+  flex: 侧栏密集排版，
   # block:无侧栏
   template: 'basic'
   #字体大小
