@@ -49,14 +49,10 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - Python
-    - Java
+    - 熟悉Python编程, 了解Java语言
   - title: 技术栈
     items:
-    - Linux
-    - 软件测试
-    - Selenium
-    - Git
+    - 熟悉常用Linux命令, 掌握常用的软件测试理论和方法, 了解Selenium
 
 - type: papers
   name: 论文
