@@ -68,7 +68,7 @@ main: #简历主要内容，
 - type: experience
   name: 项目经历
   content:
-  - title: 井下巡检系统开发
+  - title: 矿井井下巡检系统
     sub: 校企合作
     duration: "2016年9月 - 2017年8月"
     tags:
